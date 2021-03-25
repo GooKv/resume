@@ -1,14 +1,12 @@
 body {
-    background: linear-gradient(#e5ffcd, white);
+    background: linear-gradient(#cdf3ff, white);
 }
 
 section {
     padding: 1em;
     border: 1px solid black;
     margin: 14px;
-
-    border-radius: 5px;
-
+    border-radius: 1em;
     background-color: rgba(255, 255, 255, .95);
     box-shadow: 1px 1px 5px #474747;
 }
